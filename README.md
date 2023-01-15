@@ -22,4 +22,4 @@ The Drug Review Dataset is available from the [UCI Machine Learning Repository](
 
 Please read the notebook:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]()
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Benjamin2009/Drug-Review-Sentiment-Analysis/blob/main/Drug_Review_Sentiment_Analysis.ipynb)
