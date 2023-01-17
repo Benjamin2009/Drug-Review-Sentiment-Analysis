@@ -18,6 +18,28 @@ The Drug Review Dataset is available from the [UCI Machine Learning Repository](
 - **rating:** 10-star rating for the drug, reflecting the overall patient satisfaction
 - **date:** date of review entry 
 - **usefulCount:** number of users who found the review useful
+
+### Python Libraries
+
+Data wrangling and exploration:
+- Pandas
+- Numpy
+- qgrid
+- ipywidgets
+
+Data Visualization:
+- Matplotlib
+- Seaborn
+- wordcloud
+
+Text Preprocessing:
+- NLTK
+- TextBlob
+
+Modeling:
+- sklearn
+- lightgbm
+
 ---
 
 Please read the notebook:
