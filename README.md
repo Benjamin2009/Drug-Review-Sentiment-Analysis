@@ -23,7 +23,7 @@ The Drug Review Dataset is available from the [UCI Machine Learning Repository](
 
 Data wrangling and exploration:
 - Pandas
-- Numpy
+- NumPy
 - qgrid
 - ipywidgets
 
